@@ -23,7 +23,7 @@ gulbadin hasan  ·  lead devops engineer  ·  10+ years  ·  india
 &nbsp;
 <a href="https://linkedin.com/in/gulbadin-hasan"><img src="https://img.shields.io/badge/linkedin-gulbadin--hasan-000?style=flat-square&labelColor=000&color=fff&logo=linkedin&logoColor=fff" /></a>
 &nbsp;
-<a href="https://gulbadin-hasan.dev"><img src="https://img.shields.io/badge/portfolio-gulbadin--hasan.dev-000?style=flat-square&labelColor=000&color=fff&logo=gnubash&logoColor=fff" /></a>
+<a href="https://gulbadinhasan.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-gulbadin--hasan.dev-000?style=flat-square&labelColor=000&color=fff&logo=gnubash&logoColor=fff" /></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=gulbadinhasan&style=flat-square&color=000&label=views" />
 
